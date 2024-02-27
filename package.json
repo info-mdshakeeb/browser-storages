@@ -1,0 +1,21 @@
+{
+  "name": "browser-storages",
+  "version": "1.0.0",
+  "description": "A custom React hook for interacting with Web Storage (localStorage and sessionStorage)",
+  "main": "useBrowserStorage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "web storage",
+    "localstorage",
+    "sessionstorage"
+  ],
+  "author": "Shakeeb",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
